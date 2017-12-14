@@ -1,9 +1,9 @@
 {
   "environment": "development",
-  "port": 3000,
+  "port": 5101,
   "database": {
     "dialect": "mysql",
-  	"nameDB": "hpdatabase",
+  	"nameDB": "adminlte",
 	"userDB": "root",
 	"passDB": "root",
 	"hostDB": "localhost",
